@@ -1,3 +1,5 @@
+## Created by Timothy Blumberg on 19/05/2016
+
 I am a paragraph of fake text that is written in order to satisfy the needs of the developer to be able to
 proof the coding thing that is currently being worked on. I have been written in order to reflect what a body of
 natural English looks like in the context of the web page, coding assignment, design document,
